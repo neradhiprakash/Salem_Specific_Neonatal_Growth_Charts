@@ -1,0 +1,17 @@
+# Block all data files 
+*.csv
+*.xlsx
+*.xls
+*.rds
+*.RData
+*.sav
+*.dta
+*.tsv
+
+# RStudio junk
+.Rhistory
+.Rproj.user/
+
+# Backup or temp files
+*.tmp
+*.bak
